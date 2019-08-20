@@ -5,3 +5,8 @@ dkas dksa;l d
 sadkm a;sldl
 sad
 asdn lask
+
+
+This is back from mu UBUNTU machine to remote repository
+
+https://github.com/gyandeo-code/GyanDevops.git
